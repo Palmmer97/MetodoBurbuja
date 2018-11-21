@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Metodo Burbuja\Metodo Burbuja\bin\Debug\Metodo Burbuja.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Metodo Burbuja\Metodo Burbuja\obj\Debug\Metodo Burbuja.pdb
